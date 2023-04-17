@@ -1,0 +1,28 @@
+#mainContainer {
+    width: 100%;
+    background-color: #083b4c;
+}
+
+#baseContainer {
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.base {
+    width: 120px;
+    height: 120px;
+    background-color: #1389b2;
+}
+
+.fizz {
+    background-color: #0cd6a1;
+}
+
+.buzz {
+    background-color: #ffd166;
+}
+
+.fizzbuzz {
+    background-color: #f0466f;
+}
