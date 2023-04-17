@@ -1,6 +1,9 @@
+body{
+    background-color: #083b4c;
+}
+
 #mainContainer {
     width: 100%;
-    background-color: #083b4c;
 }
 
 #baseContainer {
